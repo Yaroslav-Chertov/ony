@@ -6,7 +6,7 @@
 
 [Ссылка на прод карьерной страницы](https://join.ony.ru/)
 
-[Исходный код хранится в приватном репозитории. Готов предоставить доступ по запросу](https://github.com/Yaroslav-Chertov/ony)
+[Исходный код хранится в приватном репозитории. Готов предоставить доступ по запросу](https://github.com/Yaroslav-Chertov/ony-agency)
 
 ![](./Screenshot_readme_1.png)
 ![](./Screenshot_readme_2.png)
